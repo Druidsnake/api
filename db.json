@@ -1,4 +1,18 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "mail": "drullian@gmail.com",
+      "password":"1234",
+      "age":"31",
+      "name":"ricardo",
+      "lastname":"aguinaga nuñez",
+      "level":"4",
+      "state":"active",
+      "created":"2019-04-30",
+      "updated":"null"
+    }
+  ],
   "posts": [
     {
       "id": 1,
